@@ -54,7 +54,8 @@ git --version
 git clone https://github.com/Ai-TechNov/JavaWebCalculator.git
 cd JavaWebCalculator/
 ```
-img width="1295" height="668" alt="Image" src="https://github.com/user-attachments/assets/20f2bb29-8722-4f45-b5af-1d23ff12c80b" />
+<img width="1295" height="668" alt="Image" src="https://github.com/user-attachments/assets/20f2bb29-8722-4f45-b5af-1d23ff12c80b" />
+
 ### Step 3: Install Required Packages
 ```bash
 sudo apt install -y tree
@@ -62,12 +63,16 @@ sudo apt install openjdk-17-jre-headless -y
 sudo apt install maven -y
 ```
 <img width="874" height="467" alt="Image" src="https://github.com/user-attachments/assets/29a416d0-67ca-431c-b2bf-c28a6c90eeb7" />
+
 ### Step 4: Build and Package the Application
 ```bash
 mvn validate
 mvn package
 ```
 <img width="1164" height="301" alt="Image" src="https://github.com/user-attachments/assets/4569020d-1003-4b89-9707-02d36757182a" />
+
+---
+
 <img width="944" height="423" alt="Image" src="https://github.com/user-attachments/assets/bd3c686f-0264-4a3d-9278-298797ace9d6" />
 
 📦 **The .war file will be generated at:**  
