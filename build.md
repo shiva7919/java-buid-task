@@ -62,6 +62,7 @@ sudo apt install -y tree
 sudo apt install openjdk-17-jre-headless -y
 sudo apt install maven -y
 ```
+## Before Build
 <img width="874" height="467" alt="Image" src="https://github.com/user-attachments/assets/29a416d0-67ca-431c-b2bf-c28a6c90eeb7" />
 
 ### Step 4: Build and Package the Application
